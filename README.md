@@ -11,7 +11,7 @@ Driven by a desire to explore new horizons, I made a strategic transition into t
 
 - 🔭 I’m currently working on further improving my skills on Tableu and SQL
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: www.linkedin.com/in/stanislovas-jurevicius-454010246
+- 📫 How to reach me: www.linkedin.com/in/stanislovas-jurevicius
 
 
 <!--
